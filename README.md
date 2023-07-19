@@ -19,7 +19,7 @@ To use this script, ensure you have the following:
 1. Clone or download the script to your local machine.
 2. Open the Minecraft game and navigate to the book UI.
 3. Adjust the `pages` list in the script to include the desired content for each page.
-4. Run the script (`python carotism_book.py`).
+4. Run the script (`python type.py`).
 5. Position the mouse cursor over the next page button and wait for the script to start.
 6. The script will automatically click the next page button and input the content of each page.
 7. Sit back and let the script do the work for you.
